@@ -1,0 +1,9 @@
+Building xt3ch
+
+See doc/readme-qt.rst for instructions on building xt3ch QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of xt3ch.
+
+See doc/build-*.txt for instructions on building xt3chd,
+the intended-for-services, no-graphical-interface, reference
+implementation of xt3ch.
